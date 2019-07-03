@@ -27,7 +27,7 @@ You can focus on my WeChat Official Account<br>
 
 ![](https://github.com/dqhplhzz2008/dqhplhzz2008.github.io/raw/master/weixingongzhonghao.jpg)  <br>
 
-At same time, welcome to [My blog[¼òÌåÖÐÎÄ]](http://www.yushuai.xyz)!
+At same time, welcome to [My blog[Simplified Chinese]](http://www.yushuai.xyz)!
 
 
 
