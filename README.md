@@ -18,9 +18,13 @@ Up to now, this project only implements the input and output of wav files, and t
 
 ## Usage
 
+* VS2015 Version (./WebRTC_NS-VS)
 ```
 ./ns.exe <input> <output>
 ```
+
+* CentOS Version(./WebRTC_NS-gcc)
+Waiting...
 
 ## Result
 
@@ -37,11 +41,21 @@ Up to now, this project only implements the input and output of wav files, and t
 
 * Time domain image
 
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/timedomain1.jpg)
+
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/timedomain2.jpg)
 
 * Frequency domain image
 
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/ypt1.jpg)
+
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/ypt2.jpg)
+
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/ypt3.jpg)
+
 * SNR & PESQ
 
+![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/pesqsnr.jpg)
 
 ## Support ME
 
