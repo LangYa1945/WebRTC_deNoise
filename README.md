@@ -17,12 +17,13 @@
 * Floating point version
 
  - [x] Visual Studio 2015 based on Windows 10
- - [] GCC based on CentOS 6.4
+ 
+ - [ ] GCC based on CentOS 6.4
 
 * Fixed Version
 
- - [] Visual Studio 2015 based on Windows 10
- - [] GCC based on CentOS 6.4
+ - [ ] Visual Studio 2015 based on Windows 10
+ - [ ] GCC based on CentOS 6.4
 
 
 
