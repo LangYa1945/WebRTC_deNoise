@@ -15,7 +15,7 @@
 **Support Platform**:
 
 
-* Visual Studio 2015 based on Windows 10[SUPPORTED]
+* Visual Studio 2015 based on Windows 10[SUPPORTED][FINISHED]
 * *GCC based on CentOS 6.4 [WILL SUPPORT IN THE FUTURE]*
 
 This is a single-channel speech enhancement (noise suppression) project based on WebRTC's noise suppression module. It can achieve good denoising effect.
@@ -62,6 +62,10 @@ Waiting...
 * SNR & PESQ
 
 ![](https://github.com/dqhplhzz2008/WebRTC_Noise_Suppression/raw/master/img/pesqsnr.jpg)
+
+## Others
+
+Reference: https://github.com/cpuimage/WebRTC_NS
 
 ## Support ME
 
