@@ -6,17 +6,25 @@
 
 **Project Name**: Single Channel Noise Suppression based on WebRTC
 
-**Create Time**: July 3rd, 2019
+**Update Date**: July 10th, 2019
 
 **Created By** Yushuai Zhang
 
 **Wesite**: www.yushuai.xyz
 
-**Support Platform**:
+**TO DO**：
+
+* Floating point version
+
+ - [x] Visual Studio 2015 based on Windows 10
+ - [] GCC based on CentOS 6.4
+
+* Fixed Version
+
+ - [] Visual Studio 2015 based on Windows 10
+ - [] GCC based on CentOS 6.4
 
 
-* Visual Studio 2015 based on Windows 10[SUPPORTED][FINISHED]
-* *GCC based on CentOS 6.4 [WILL SUPPORT IN THE FUTURE]*
 
 This is a single-channel speech enhancement (noise suppression) project based on WebRTC's noise suppression module. It can achieve good denoising effect.
 
