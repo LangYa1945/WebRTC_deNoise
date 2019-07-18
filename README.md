@@ -77,7 +77,9 @@ Waiting...
 
 Reference: https://github.com/cpuimage/WebRTC_NS
 
-## Support ME
+## Contact
+
+If you have any question, please contact me.
 
 E-mail: *davidcheungchina@aliyun.com*
 
