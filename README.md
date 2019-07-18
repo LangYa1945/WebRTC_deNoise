@@ -40,7 +40,10 @@ This is a single-channel speech enhancement (noise suppression) project based on
 ```
 
 * CentOS Version(./WebRTC_NS-gcc)
-Waiting...
+
+```
+./ns <input> <output>
+```
 
 ## Result
 

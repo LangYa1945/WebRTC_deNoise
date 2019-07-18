@@ -116,7 +116,7 @@ int main(int argc, char *argv[])
 	printf("\n");
 	if (argc < 3)
 	{
-		perror("Error! Usage: ./ns.exe <input> <output>\n");
+		perror("Error! Usage: ./ns <input> <output>\n");
 		exit(-1);
 	}
 	char *inwav = argv[1];
