@@ -62,7 +62,7 @@
 - 将程序中所有使用C++类的部分、使用函数模板的部分等全部替换为了C语言中的实现。
 - 将音频文件读取的函数整合到了主程序之中。
 - 2.0版本暂未提供GCC下工程，请暂时参考VS2019工程和1.0版本的GCC下工程，自行修改CMakeList.txt并进行编译。
-- 
+
 ### v1.0(2019.7.18)
 
  - 参考[cpuimage](https://github.com/cpuimage/WebRTC_NS)的程序实现了WebRTC_NS的功能。
@@ -140,4 +140,4 @@ At same time, welcome to [My blog[Simplified Chinese]](http://www.yushuai.xyz)!
 
 ## License
 
-[MIT](LICENSE) © Yushuai Zhang
+[GPL-3.0](LICENSE) © Yushuai Zhang
