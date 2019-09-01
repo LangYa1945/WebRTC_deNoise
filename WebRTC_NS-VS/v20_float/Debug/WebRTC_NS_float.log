@@ -1,0 +1,3 @@
+﻿  main.c
+D:\codestudy\task\vs\github_webrtcns\WebRTC_NS_float\main.c(140,61): warning C4244:  “函数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+  WebRTC_NS_float.vcxproj -> D:\codestudy\task\vs\github_webrtcns\WebRTC_NS_float\Debug\WebRTC_NS_float.exe

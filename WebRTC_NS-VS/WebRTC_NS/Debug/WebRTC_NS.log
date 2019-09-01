@@ -1,4 +1,0 @@
-﻿  main.c
-d:\codestudy\program\cfuxi\cpplearning\webrtc_ns\webrtc_ns\main.c(84): warning C4244: “函数”: 从“uint64_t”转换到“std::size_t”，可能丢失数据
-  WebRTC_NS.vcxproj -> D:\codestudy\program\cfuxi\Cpplearning\WebRTC_NS\Debug\WebRTC_NS.exe
-  WebRTC_NS.vcxproj -> D:\codestudy\program\cfuxi\Cpplearning\WebRTC_NS\Debug\WebRTC_NS.pdb (Partial PDB)
